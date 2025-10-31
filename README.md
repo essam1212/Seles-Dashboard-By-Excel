@@ -19,30 +19,32 @@ Electronics and Fashion categories generated the highest revenue.
 ----------------------------------------------------------------------------------------------------------
 Business Insights & Recommendations:
 
-Focus marketing efforts on Branch 3 as it shows strong sales performance and customer engagement.
+1- Focus marketing efforts on Branch 3 as it shows strong sales performance and customer engagement.
 
-Encourage other branches to adopt the same sales strategies or promotions used in Branch 3.
+2- Encourage other branches to adopt the same sales strategies or promotions used in Branch 3.
 
-Since PayPal is the most popular payment method, consider offering discounts or loyalty points for PayPal users to maintain engagement.
+3- Since PayPal is the most popular payment method, consider offering discounts or loyalty points for PayPal users to maintain engagement.
 
-Increase stock and marketing for top-performing categories such as Electronics and Fashion.
+4- Increase stock and marketing for top-performing categories such as Electronics and Fashion.
 
-Identify low-performing categories and analyze customer feedback or pricing issues to improve sales balance.
+5- Identify low-performing categories and analyze customer feedback or pricing issues to improve sales balance.
+
+6- Seasonal patterns suggest promoting specific products during peak months to maximize revenue.
+
 -------------------------------------------------------------------------------------------------------------
 🧠 Skills & Tools Demonstrated:
 
-Data Cleaning and Preparation
+1- Data Cleaning and Preparation
 
-Pivot Tables and Slicers
+2- Pivot Tables and Slicers
 
-Interactive Dashboard Design
+3- Interactive Dashboard Design
 
-Data Visualization and KPI Tracking
+4- Data Visualization and KPI Tracking
 
-Business Analysis and Insight Generation
+5- Business Analysis and Insight Generation
 
 Tool Used: Microsoft Excel
 
 
 
-Seasonal patterns suggest promoting specific products during peak months to maximize revenue.
