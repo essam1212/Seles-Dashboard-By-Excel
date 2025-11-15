@@ -23,7 +23,6 @@ The dashboard is structured to provide both a high-level performance overview an
 - Branch-wise and category-wise revenue distribution  
 - Payment method trends and contribution to total revenue  
 
----
 
 ## 💡 Business Insights & Recommendations
 
@@ -46,5 +45,3 @@ The dashboard is structured to provide both a high-level performance overview an
 
 **Tool Used:** Microsoft Excel  
 
-
-## 📂 Repository Structure
